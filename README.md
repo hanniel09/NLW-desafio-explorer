@@ -5,7 +5,7 @@
 > Trilha Explore
 Desafio do projeto construído no evento Next Level Week da Rocketseat.
 
-[🔗Clique aqui pra acessar](https://hanniel09.github.io/NLW-missão-explorer/)
+[🔗Clique aqui pra acessar](https://hanniel09.github.io/NLW-desafio-explorer/)
 
 ## 🛠 Tecnologias
 
